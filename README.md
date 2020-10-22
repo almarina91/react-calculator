@@ -1,2 +1,2 @@
 Simple calculator, created with React
-![calculator image](./src/calculator.png)
+![calculator image](./src/calculator.gif)
